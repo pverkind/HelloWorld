@@ -1,6 +1,7 @@
 # HelloWorld
 
-This is a repo created to get familiar with **GitHub** for our training course:
+This is a repo created to get familiar with **GitHub** for the KITAB 
+training course:
 
 * Creating a repository
 * Cloning that repository to our local computer
